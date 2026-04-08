@@ -1,5 +1,8 @@
-# Deployment script - do not commit
+# Deployment scripts - do not commit
 deploy-to-github.js
+deploy-to-github.ps1
+deploy-to-github.bat
+deploy-to-github.sh
 
 # Dependencies
 node_modules/
